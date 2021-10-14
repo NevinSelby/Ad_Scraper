@@ -1,4 +1,4 @@
-# Ad_Scraper
+# Ad Scraper
 Scraping Ads from websites and identifying the content and logo in them <br>
 
 
